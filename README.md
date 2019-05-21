@@ -6,7 +6,7 @@ For those who want to take it to the next level we now have a 3G Cellular Modem 
 
 This module measure only 1.75"x1.6" but packs a surprising amount of technology into it's little frame. At the heart is a powerfull GSM cellular module (we use the latest SIM5320A) with integrated GPS.
 
-For more details, See the various versions available:
+For more details, see the various versions available:
 
   * https://www.adafruit.com/products/3147
   * https://www.adafruit.com/products/2687
